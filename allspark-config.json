@@ -1,0 +1,28 @@
+{
+  "customerName": "My Awesome Customer",
+  "projectName": "My Awesome Project",
+  "features": [
+    {
+      "name": "Crud Barbers",
+      "time": 1
+    },
+    {
+      "name": "Reports of seling by week",
+      "time": 1
+    },
+    {
+      "name": "Eletronic signed login",
+      "time": 3
+    }
+  ],
+  "taxes": [
+    {
+      "percent": 20
+    }
+  ],
+  "developers": [
+    {
+      "cost": 100
+    }
+  ]
+}
